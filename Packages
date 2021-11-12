@@ -14,7 +14,7 @@ Depiction: https://x7mii15.github.io/test	Depiction: https://repo.packix.com/pac
 Name: appstore++
 
 Package: com.cokepokes.appstoreplusplus11
-Version: 0.9.8-9
+Version: 7.1.1
 Architecture: iphoneos-arm
 Maintainer: z9pt
 Depends: firmware (>= 11.0), mobilesubstrate
