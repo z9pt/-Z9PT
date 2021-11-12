@@ -1,0 +1,7 @@
+Origin:z9pt
+Label: z9pt 
+Suite: stable
+Version: 1.0
+Architectures: iphoneos-arm
+Components: main
+Description: for tools
